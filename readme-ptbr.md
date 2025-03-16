@@ -6,7 +6,4 @@
 [![Latest Unstable Version](https://poser.pugx.org/LaravelCollective/html/v/unstable.svg)](https://packagist.org/packages/laravelcollective/html)
 [![License](https://poser.pugx.org/LaravelCollective/html/license.svg)](https://packagist.org/packages/laravelcollective/html)
 
-Official documentation for Forms & Html for The Laravel Framework can be found at the [LaravelCollective](https://laravelcollective.com/docs) website.
-
-## Replacement
-If you're looking to replace this package due to it's retirement we recommend using [Shift](https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html)
+A documentação oficial para Forms & Html para o framework Laravel podem ser encontrados no site [LaravelCollective](https://laravelcollective.com/docs).
